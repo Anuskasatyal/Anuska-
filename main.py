@@ -1,6 +1,6 @@
 def greet():
     return "hello world"
 def farewell():
-    return "goodbye!"
+    return "goodbye! see you"
 print(greet())
 print(farewell())
